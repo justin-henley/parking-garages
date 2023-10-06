@@ -2,6 +2,8 @@
 
 # Network of Automated Parking Garages - FHSU F2022 CSCI441 VA Group 10
 
+Personal fork to continue updating the project after the end of the course.
+
 ## Local Use
 
 To run on your machine locally:
@@ -22,10 +24,11 @@ If necessary, use the files in the Database directory to rebuild the database ta
 The project may be found running live at https://parking-garages.onrender.com/ if you do not wish to run it locally. Please be patient if the page is initially slow to load, free servers have their downsides!
 
 **Links to specific use cases:**
+
 - **UC-01**, User Registration
   - https://parking-garages.onrender.com/view/register
 - **UC-2a & UC-2b**, Requesting a Single or Guaranteed (continuous) Parking Spot Reservation
-  - https://parking-garages.onrender.com/view/locator 
+  - https://parking-garages.onrender.com/view/locator
 - **UC-10a**, Entering a Garage with a Reservation
   - https://parking-garages.onrender.com/view/drive-in
 - **UC-11**, Exiting a Garage with a Reservation
